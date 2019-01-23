@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_8/main.c
+assert.h
+-
+stdlib.h
+-
+stdbool.h
+-
+stdio.h
+-
+time.h
+-
+singly_linked_list.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_8/singly_linked_list.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_8/singly_linked_list.c
+assert.h
+-
+stdlib.h
+-
+stdbool.h
+-
+stdio.h
+-
+singly_linked_list.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_8/singly_linked_list.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_8/singly_linked_list.h
+
